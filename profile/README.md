@@ -35,8 +35,8 @@ Whether you're running a small web server or a large game hosting platform, our 
 ## 📫 Contact
 
 For questions, suggestions, or partnership inquiries:  
-📧 [braiden@braidenh.com]  
-🌐 [badger.braidenh.com] *(if applicable)*
+📧 braiden@braidenh.com  
+🌐 badger.braidenh.com
 
 ---
 
